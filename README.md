@@ -1,3 +1,10 @@
+<h1 align="center">
+WARNING - COPY OF REPO NOT ORIGINAL 
+</h1>
+<p></p>
+<p></p>
+
+
 # 🦜️🔗 LangChain.js
 
 ![npm](https://img.shields.io/npm/dm/langchain) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/langchainai.svg?style=social&label=Follow%20%40LangChainAI)](https://twitter.com/langchainai)
